@@ -1,3 +1,6 @@
+This fork is intended to fix an issue i have had.
+In Rivals of Aether the A button was bound to B, the B button to Y, X to A and Y to B. This fork fixes that. (hopefully)
+
 wii-u-gc-adapter
 ================
 
