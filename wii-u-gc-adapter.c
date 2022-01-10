@@ -46,10 +46,10 @@ const int BUTTON_OFFSET_VALUES[16] = {
    -1,
    -1,
    -1,
+   BTN_SOUTH,
    BTN_EAST,
-   BTN_SOUTH, //i changed this to work better with steam
-   BTN_WEST,
    BTN_NORTH,
+   BTN_WEST,
    BTN_DPAD_LEFT,
    BTN_DPAD_RIGHT,
    BTN_DPAD_DOWN,
